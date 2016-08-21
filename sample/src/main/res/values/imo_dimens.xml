@@ -1,0 +1,505 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+
+    <!-- hpdi -->
+
+
+    <!-- Titlebar Begin -->
+    <dimen name="titlebar_height">52dp</dimen>
+    <dimen name="titlebar_face_frame_height">47dp</dimen>
+    <dimen name="titlebar_face_height">42dp</dimen>
+    <dimen name="titlebar_face_margin_left">7dp</dimen>
+    <dimen name="titlebar_name_fontsize">17sp</dimen>
+    <dimen name="titlebar_worksign_fontsize">13sp</dimen>
+    <dimen name="titlebar_state_height">15dp</dimen>
+    <dimen name="titlebar_left_fontsize">15sp</dimen>
+    <dimen name="titlebar_center_fontsize">16sp</dimen>
+    <dimen name="titlebar_btn_width">58dp</dimen>
+    <dimen name="titlebar_btn_width1">80dp</dimen>
+    <dimen name="titlebar_btn_height">30dp</dimen>
+    <dimen name="titlebar_btn_fontsize">12sp</dimen>
+    <dimen name="titlebar_btn_marginleft">10dp</dimen>
+    <!-- Titlebar End -->
+
+	<dimen name="horizontal_hegiht">35dp</dimen>
+
+    <!-- NavBar begin -->
+    <dimen name="navbar_height">@dimen/dept_node_height</dimen>
+    <dimen name="navbar_item_fontsize">@dimen/dept_node_fontsize</dimen>
+    <dimen name="navbar_item_next_fontsize">@dimen/dept_node_fontsize</dimen>
+    <dimen name="navbar_item_margin">19sp</dimen>
+    <!-- NavBar begin -->
+
+
+    <!-- Searchbar Begin -->
+    <dimen name="node_margin_left">33dp</dimen>
+    <dimen name="searchbar_border_padding">10dp</dimen>
+    <dimen name="searchbar_icon_paddingleft">7dp</dimen>
+    <dimen name="searchbar_height_out">47dp</dimen>
+    <dimen name="searchbar_height_in">32dp</dimen>
+    <dimen name="searchbar_icon_width">16dp</dimen>
+    <dimen name="searchbar_delete_width">18dp</dimen>
+    <dimen name="searchbar_quxiao_width">12dp</dimen>
+    <dimen name="searchbar_padding">7dp</dimen>
+    <dimen name="searchbar_content_padding_left">5dp</dimen>
+    <dimen name="searchbar_content_padding_right">20dp</dimen>
+    <dimen name="searchbar_key_font_size">15sp</dimen>
+    <!-- Searchbar end -->
+
+
+    <!-- Organize begin -->
+    <dimen name="dept_node_pressed_bottom_height">44dp</dimen>
+    <dimen name="dept_node_height">45dp</dimen>
+    <dimen name="dept_left_padding">21dp</dimen>
+    <dimen name="dept_node_fontsize">15sp</dimen>
+    <dimen name="dept_node_treess_state_width">8dp</dimen>
+    <dimen name="dept_node_treess_state_height">11dp</dimen>
+    <dimen name="dept_statistics_fontsize">14sp</dimen>
+    <dimen name="dept_statistics_marginright">40dp</dimen>
+    <dimen name="user_node_line_top">45dp</dimen>
+    <dimen name="user_node_first_top">43dp</dimen>
+    <dimen name="user_node_sex_icon_width">25dp</dimen>
+    <dimen name="user_node_triangle_layout_width">48dp</dimen>
+    <dimen name="user_node_triangle_layout_width1">68dp</dimen>
+    <dimen name="user_node_triangle_layout_width_group">80dp</dimen>
+    <dimen name="user_node_triangle_width">9dp</dimen>
+    <dimen name="user_node_card_width">20dp</dimen>
+    <dimen name="user_node_triangle_height">13dp</dimen>
+    <dimen name="user_node_triangle_width_group">27dp</dimen>
+    <dimen name="user_node_triangle_height_group">27dp</dimen>
+    <dimen name="user_node_triangle_margin_right">13dp</dimen>
+    <!-- Organize end -->
+
+
+    <!-- WorkSign begin -->
+    <dimen name="worksign_content_height">180dp</dimen>
+    <dimen name="worksign_delete_height">20dp</dimen>
+    <!-- WorkSign end -->
+
+
+    <!-- Dialogue begin -->
+    <dimen name="begin_dialog_btn_width">81dp</dimen>
+    <dimen name="begin_dialog_btn_height">31dp</dimen>
+    <!-- Dialogue end -->
+
+
+    <!-- copy namecard -->
+    <dimen name="copynamecard_width">140dp</dimen>
+    <dimen name="copynamecard_height">29dp</dimen>
+    <!-- Dialogue end -->
+
+
+    <!-- loading button begin -->
+    <dimen name="loading_btn_width">186dp</dimen>
+    <dimen name="loading_btn_height">35dp</dimen>
+    <!-- loading button end -->
+
+
+    <!-- Setting item view  begin -->
+    <dimen name="setting_item_height">47dp</dimen>
+    <dimen name="setting_item_view_icon_width">24dp</dimen>
+    <dimen name="setting_item_view_icon_marginleft">15dp</dimen>
+    <dimen name="setting_item_view_icon_margintop">10dp</dimen>
+    <dimen name="setting_item_view_icon_left_name_marginleft">10dp</dimen>
+    <dimen name="setting_item_view_icon_left_name_marginright">10dp</dimen>
+    <dimen name="setting_item_view_text_padding">10dp</dimen>
+    <dimen name="setting_item_view_name_margintop">10dp</dimen>
+    <dimen name="setting_item_view_name_fontsize">15sp</dimen>
+    <dimen name="setting_item_margintop2">80dp</dimen>
+    <dimen name="group_user_height">60dp</dimen>
+    <!-- Setting item view end -->
+
+
+    <!-- user Setting activity begin -->
+    <dimen name="setting_activity_username_fontsize">15sp</dimen>
+    <dimen name="setting_activity_position_fontsize">12sp</dimen>
+    <dimen name="setting_activity_worksign_fontsize">12sp</dimen>
+    <!-- user Setting activity end -->
+
+
+    <!-- TitleMiddle item view begin -->
+    <dimen name="middle_divider_height">4dp</dimen>
+    <dimen name="middle_userconfig_height">92dp</dimen>
+    <dimen name="middle_edit_worksign_width">24dp</dimen>
+    <dimen name="middle_edit_worksign_height">24dp</dimen>
+    <dimen name="middle_worksign_fontsize">12sp</dimen>
+    <dimen name="middle_title_height">60dp</dimen>
+    <dimen name="middle_title_face_board_height">53dp</dimen>
+    <dimen name="middle_title_face_top_margin">5dp</dimen> <!-- (80-64)/2 -->
+    <dimen name="middle_title_face_height">43dp</dimen>
+    <dimen name="middle_title_name_fontsize">15sp</dimen>
+    <dimen name="middle_title_position_fontsize">12sp</dimen>
+    <!-- TitleMiddle item view end -->
+
+
+    <!-- Card end -->
+    <dimen name="card_name_fontsize">13sp</dimen>
+    <dimen name="card_name_padding_top">9dp</dimen>
+    <dimen name="card_name_padding_top2">7dp</dimen>
+    <dimen name="card_name_padding_left_and_right">13dp</dimen>
+    <dimen name="card_face_height">45dp</dimen>
+    <dimen name="card_sex_height">15dp</dimen>
+    <dimen name="card_item_top_margin">16dp</dimen>
+    <dimen name="card_username_fontsize">18sp</dimen>
+    <dimen name="card_account_fontsize">14sp</dimen>
+    <!-- Card Begin -->
+
+
+    <!-- RecentContact Begin -->
+    <dimen name="recent_contact_category_height">31dp</dimen>
+    <dimen name="recent_contact_category_paddingleft">10dp</dimen>
+    <dimen name="recent_contact_category_fontsize">12sp</dimen>
+    <dimen name="recent_contact_item_height">63dp</dimen>
+    <dimen name="recent_contact_item_height1">63dp</dimen>
+    <dimen name="recent_contact_face_marginleft">10dp</dimen>
+    <dimen name="recent_contact_face_marginright">10dp</dimen>
+    <dimen name="recent_contact_name_margin_left">10dp</dimen> <!-- 20 -->
+    <dimen name="recent_contact_rightpart_width">73dp</dimen>
+    <dimen name="recent_contact_name_fontsize">17sp</dimen>
+    <dimen name="recent_contact_info_fontsize">13sp</dimen>
+    <dimen name="recent_contact_time_fontsize">12sp</dimen>
+    <dimen name="recent_contact_count_fontsize">12sp</dimen>
+    <dimen name="recent_contact_close_btn_width">53dp</dimen>
+    <dimen name="recent_contact_close_btn_height">27dp</dimen>
+    <dimen name="recent_contact_fail_iconsize">15dp</dimen>
+    <!-- RecentContact End -->
+    
+    <!-- Often contact -->
+    <dimen name="often_contact_item_height">60dp</dimen>
+    <dimen name="often_contact_name_fontsize">15sp</dimen>
+    <dimen name="often_contact_info_fontsize">14sp</dimen>
+ 	<!-- Often contact End-->
+
+    <!-- Group begin -->
+    <dimen name="group_img_width">241dp</dimen>
+    <dimen name="group_img_height">160dp</dimen>
+    <!-- Group End -->
+    <dimen name="no_recent_contact_img_width">143dp</dimen>
+    <dimen name="no_recent_contact_img_height">123dp</dimen>
+    <dimen name="pop_item_height">52dp</dimen>
+    <dimen name="pop_item_fontsize">17sp</dimen>
+    <dimen name="pop_item_icon_height">23dp</dimen>
+
+    <!-- LoginActivity -->
+    <dimen name="login_btnLogin_marginBottom">30dp</dimen>
+    <dimen name="login_ll_corpLogo_marginLeft">40dp</dimen>
+    <dimen name="login_ll_corpLogo_marginTop">60dp</dimen>
+    <dimen name="login_rl_corpLogo_width">100dp</dimen>
+    <dimen name="login_rl_corpLogo_height">100dp</dimen>
+    <dimen name="login_iv_corpLogo_width">95dp</dimen>
+    <dimen name="login_iv_corpLogo_height">95dp</dimen>
+    <dimen name="login_iv_corpLogo_margin">5dp</dimen>
+    <dimen name="login_iv_corpLogo_marginTop">20dp</dimen>
+    <dimen name="login_userName_marginTop">10dp</dimen>
+
+    <!-- 480*800dp -->
+    <dimen name="fengxiaowei_negative10">-10dp</dimen>
+    <dimen name="fengxiaowei_10">10dp</dimen>
+    <dimen name="fengxiaowei_20">20dp</dimen>
+    <dimen name="fengxiaowei_30">30dp</dimen>
+    <dimen name="fengxiaowei_40">40dp</dimen>
+    <dimen name="fengxiaowei_50">50dp</dimen>
+    <dimen name="fengxiaowei_60">60dp</dimen>
+    <dimen name="fengxiaowei_70">70dp</dimen>
+    <dimen name="fengxiaowei_80">80dp</dimen>
+    <dimen name="fengxiaowei_90">90dp</dimen>
+    <dimen name="fengxiaowei_5">5dp</dimen>
+    <dimen name="fengxiaowei_4">4dp</dimen>
+    <dimen name="fengxiaowei_15">15dp</dimen>
+    <dimen name="fengxiaowei_25">25dp</dimen>
+    <dimen name="fengxiaowei_35">35dp</dimen>
+    <dimen name="fengxiaowei_45">45dp</dimen>
+    <dimen name="fengxiaowei_55">55dp</dimen>
+    <dimen name="fengxiaowei_65">65dp</dimen>
+    <dimen name="fengxiaowei_75">75dp</dimen>
+    <dimen name="fengxiaowei_85">85dp</dimen>
+    <dimen name="fengxiaowei_95">95dp</dimen>
+    <dimen name="fengxiaowei_96">96dp</dimen>
+    <dimen name="fengxiaowei_100">100dp</dimen>
+    <dimen name="fengxiaowei_200">200dp</dimen>
+    <dimen name="fengxiaowei_login_btn">200dp</dimen>
+    <dimen name="fengxiaowei_login_checkbox_padding">18dp</dimen>
+    <dimen name="login_logo_frame">89dp</dimen>
+    <dimen name="login_logo_img">80dp</dimen>
+    <dimen name="login_logo_margin">5dp</dimen>
+    <dimen name="dialogue_head">48dp</dimen>
+
+    <!-- 480*800sp -->
+    <dimen name="fengxiaowei_21sp">21sp</dimen>
+    <dimen name="fengxiaowei_16sp">16sp</dimen>
+    <dimen name="system_set_btn_w">44dp</dimen>
+    <dimen name="system_set_btn_h">29dp</dimen>
+
+    <!-- group -->
+    <dimen name="group_face_width">40dp</dimen>
+    <dimen name="group_face_height">40dp</dimen>
+    <dimen name="group_face_width_frame">40dp</dimen>
+    <dimen name="group_face_height_frame">40dp</dimen>
+    <dimen name="group_setting_image_width">27dp</dimen>
+    <dimen name="group_setting_image_height">27dp</dimen>
+    
+    <!-- session -->
+    <dimen name="session_state_img_width">40dp</dimen>
+    <dimen name="session_state_img_height">40dp</dimen>
+    <dimen name="session_state_img_width_frame">40dp</dimen>
+    <dimen name="session_state_img_height_frame">40dp</dimen>
+    <dimen name="session_setting_image_width">27dp</dimen>
+    <dimen name="session_setting_image_height">27dp</dimen>
+
+    <!-- fresh mode -->
+    <dimen name="fresh_waiting_width">180dp</dimen>
+    <dimen name="fresh_waiting_height">110dp</dimen>
+
+    <!-- about_activity -->
+    <dimen name="about_app_name_fontsize">16sp</dimen>
+    <dimen name="mobile_version_fontsize">14sp</dimen>
+    <dimen name="mobile_version_v_fontsize">12sp</dimen>
+    <dimen name="imo_about_style_fontsize">12sp</dimen>
+    <dimen name="customer_service_tel_fontsize">12sp</dimen>
+
+    <!-- dialog -->
+    <dimen name="dialog_title_fontsize">17sp</dimen>
+    <dimen name="dialog_msg_fontsize">20sp</dimen>
+    <dimen name="time_duration_style_fontsize">12sp</dimen>
+
+    <!-- styles -->
+    <dimen name="MyCheckBox_fontsize">13sp</dimen>
+    <dimen name="titlebar_default_fontsize">22sp</dimen>
+    <dimen name="setting_item_default_fontsize">22sp</dimen>
+
+    <!-- popup -->
+    <dimen name="text_item_fontsize">14sp</dimen>
+
+    <!-- dialogue_list_iteml -->
+    <dimen name="iteml_time_fontsize">14sp</dimen>
+    <dimen name="iteml_msg_name_fontsize">15sp</dimen>
+    <dimen name="iteml_msg_fontsize">14sp</dimen>
+    <dimen name="iteml_failure_fontsize">14sp</dimen>
+
+    <!-- dialogue_list_itemr -->
+    <dimen name="itemr_time_fontsize">14sp</dimen>
+    <dimen name="itemr_msg_name_fontsize">11sp</dimen>
+    <dimen name="itemr_msg_fontsize">14sp</dimen>
+    <dimen name="itemr_failure_fontsize">11sp</dimen>
+
+    <!-- docall_dialog -->
+    <dimen name="docall_dialog_fontsize">20sp</dimen>
+
+    <!-- exitapp_dialog -->
+    <dimen name="exitapp_dialog_fontsize">20sp</dimen>
+
+    <!-- group_activity -->
+    <dimen name="group_empty_fontsize">20sp</dimen>
+    <dimen name="group_failed_reloading_fontsize">20sp</dimen>
+    <dimen name="group_groupinfo_fontsize">20sp</dimen>
+
+    <!-- login_activity -->
+    <dimen name="tv_register_fontsize">14sp</dimen>
+
+    <!-- recent_dialogue_activiey -->
+    <dimen name="no_dialogue_record_fontsize">20sp</dimen>
+
+    <!-- remaind_time_tips -->
+    <dimen name="remaind_time_tips_fontsize">15sp</dimen>
+
+    <!-- speaker_tips -->
+    <dimen name="speaker_tips_fontsize">18sp</dimen>
+    <dimen name="speaker_tips_popup_width">200dp</dimen>
+    <dimen name="speaker_tips_popup_height">50dp</dimen>
+
+    <!-- work_sign_activity -->
+    <dimen name="et_work_sign_fontsize">18sp</dimen>
+
+    <!-- record_audio_tips -->
+    <dimen name="record_audio_tips_popup">160dp</dimen>
+    <dimen name="remaind_time_tips_popup_width">160dp</dimen>
+    <dimen name="remaind_time_tips_popup_height">40dp</dimen>
+    <dimen name="remaind_time_tips_popup_offsetY">150dp</dimen>
+
+    <!-- dialogue_activity -->
+    <dimen name="dialogue_popup_width">267dp</dimen>
+    <dimen name="dialogue_popup_height">312dp</dimen>
+    <dimen name="dialogue_emotion_size">43dp</dimen>
+    <dimen name="dialogue_msg_emotion_size">20dp</dimen>
+    <dimen name="dialogue_msg_sys_image_size">64dp</dimen>
+    <dimen name="dialogue_popupWindowAdd_width">280dp</dimen>
+    <dimen name="dialogue_popupWindowAdd_height">140dp</dimen>
+    <dimen name="dialogue_gv_add_setColumnWidth">100dp</dimen>
+    <dimen name="dialogue_msg_marginLeft">5dp</dimen>
+    <dimen name="dialogue_msg_marginRight">5dp</dimen>
+    <dimen name="dialogue_msg_marginRight_bg">56dp</dimen>
+    <dimen name="dialogue_msg_paddingLeft">9dp</dimen>
+    <dimen name="dialogue_msg_marginTop">2dp</dimen>
+    <dimen name="dialogue_msg_paddingRight">0dp</dimen>
+    <dimen name="dialogue_msg_progressBar_height">6dp</dimen>
+    <dimen name="dialogue_msg_progressBar_margin">6dp</dimen>
+    <dimen name="dialogue_msg_progressBar_rightItem_margin">5dp</dimen>
+	<dimen name="dialogue_msg_send_fail_pic">20dp</dimen>
+	<dimen name="dialogue_msg_audio_pic_margin">10dp</dimen>
+	<dimen name="dialogue_msg_audio_unread">15dp</dimen>
+	<dimen name="dialogue_msg_audio_replay">30dp</dimen>
+	<dimen name="dialogue_msg_unread_pop_x">10dp</dimen>
+	<dimen name="dialogue_msg_unread_pop_y">40dp</dimen>
+	<dimen name="dialogue_msg_unread_pop_w_h">40dp</dimen>
+	
+    <!-- welcome_activity -->
+    <dimen name="welcome_logo_width">140dp</dimen>
+    <dimen name="welcome_logo_height">140dp</dimen>
+    <dimen name="welcome_beta_width">37dp</dimen>
+    <dimen name="welcome_beta_height">21dp</dimen>
+    <dimen name="welcome_rl_params_topMargin">21dp</dimen>
+    <dimen name="welcome_rl_params_topMargin2">7dp</dimen>
+    <dimen name="welcome_rl_params_topMargin3">133dp</dimen>
+    <dimen name="thumbnail_width">96dp</dimen>
+    <dimen name="thumbnail_height">160dp</dimen>
+
+    <!-- sys_msg_activity -->
+    <dimen name="sys_msg_time_fontsize">12sp</dimen>
+    <dimen name="sys_msg_title_fontsize">18sp</dimen>
+    <dimen name="sys_msg_desc_fontsize">15sp</dimen>
+    <dimen name="sys_msg_link_fontsize">16sp</dimen>
+    <dimen name="sys_msg_img_width">150dip</dimen>
+    <dimen name="sys_msg_img_height">150dip</dimen>
+
+    <!-- chatinfo_activity -->
+    <dimen name="chatinfo_face_height">50dp</dimen>
+    <dimen name="chatinfo_face_marginleft">10dp</dimen>
+    <dimen name="chatinfo_face_margintop">30dp</dimen>
+    <dimen name="chatinfo_item_marginleft">10dp</dimen>
+
+    <!-- ====================== -->
+
+
+    <!-- sp -->
+    <dimen name="btn_login_text_size">18sp</dimen>
+    <!-- sp -->
+
+
+    <!-- dp -->
+    <!-- BottomBar Begin -->
+    <dimen name="bottombar_height">76.0dp</dimen>
+    <dimen name="bottombar_image_height">28.0dp</dimen>
+    <dimen name="bottombar_mastery_image_height">30.0dp</dimen>
+    <dimen name="bottombar_msg_fontsize">8sp</dimen>
+    <dimen name="bottombar_fontsize">13sp</dimen>
+    <dimen name="bottombar_line_margintop">10dp</dimen>
+    <dimen name="bottombar_mastery_bg_margintop">12.66dp</dimen>
+    <!-- BottomBar End -->
+    <!-- btn的高度 -->
+    <dimen name="btn_height">60.0dip</dimen>
+    <!-- 登陆按钮的宽度 -->
+    <dimen name="btn_width_login">200.0dip</dimen>
+    <dimen name="setting_item_new_width">56dp</dimen>
+    <dimen name="setting_item_new_height">25dp</dimen>
+    <dimen name="setting_item_checkbox_width">53dp</dimen>
+    <dimen name="setting_item_checkbox_height">25dp</dimen>
+    <dimen name="dialogue_audio_width">27dip</dimen>
+    <dimen name="dialogue_audio_height">44dip</dimen>
+    <!-- dp -->
+    
+     <!-- timelytalk start-->
+     
+      <dimen name="voice_left_ib_width">45dp</dimen>	
+      
+      <!-- timelytalk end-->
+    <dimen name="pull_Refreshable_head_high">-60dip</dimen>
+    <dimen name="contacts_tab_height">45.0dp</dimen>
+    <!--右滑返回的距离  -->
+    <dimen name="right_slide_x">120dp</dimen>
+ 	<dimen name="right_slide_y">40dp</dimen>
+ 	
+ 	<dimen name="loc_font_size">16sp</dimen>
+ 	<dimen name="loc_name_font_size">12sp</dimen>
+ 	<dimen name="loc_address_font_size">10sp</dimen>
+ 	<dimen name="loc_icon_size">68dp</dimen>
+ 	<dimen name="loc_msg_width">210dp</dimen>
+ 	<dimen name="album_icon_size">38dp</dimen>
+ 	<dimen name="loc_marker_other_size">32dp</dimen>
+ 	<dimen name="loc_marker_self_size">26dp</dimen>
+ 	<dimen name="loc_icon_cir_size">10dp</dimen>
+ 	<dimen name="loc_icon_cir_self_size">10.2dp</dimen>
+ 	<dimen name="album_item_right_size">14dp</dimen>
+ 	<dimen name="pic_item_checked_size">34.8dp</dimen>
+ 	<dimen name="pic_item_checked_padding">16.8dp</dimen>
+ 	<dimen name="pic_pre_back">30dp</dimen>
+ 	
+ 	<dimen name="url_icon_height">60dp</dimen>
+ 	<dimen name="url_icon_weight">60dp</dimen>
+ 	<dimen name="url_content_height">66dp</dimen>
+ 	
+ 	
+ 	<dimen name="create_corp_text_size">15sp</dimen>
+ 	
+ 	
+ 	<!-- 换算的算法  1sp = 0.35 -->
+ 	<dimen name ="chat_panel_textsize">10.5sp</dimen><!-- 30pt -->
+ 	<dimen name ="defalut_small_size">11.2sp</dimen> <!-- 32pt -->
+ 	<dimen name ="defalut_largr_small_size">12.6sp</dimen> <!-- 36pt -->
+ 	<dimen name ="defalut_middle_size">14sp</dimen> <!-- 40pt -->
+ 	<dimen name ="defalut_list_item_name_size">16sp</dimen> <!-- 46pt -->
+ 	<dimen name ="defalut_larger_size">18sp</dimen> <!-- 50pt -->
+ 	
+ 	<dimen name ="login_crop_name_size">18.2sp</dimen><!-- 52pt -->
+ 	<dimen name ="login_edit_size">16.8sp</dimen><!-- 48pt -->
+ 	<dimen name = "login_register_size">13.3sp</dimen> <!-- 38pt -->
+ 	<dimen name = "login_foeget_password_size">13.3sp</dimen> <!-- 38pt -->
+ 	<dimen name = "login_helper_size">13.3sp</dimen> <!-- 38pt -->
+ 	<dimen name = "login_username_size">13.3sp</dimen> <!-- 38pt -->
+ 	<dimen name ="recentcont_item_time_size">12.3sp</dimen>
+ 	<dimen name = "contact_navigation_textsize">12.5sp</dimen> <!-- 35pt -->
+ 	<dimen name = "organize_navigation_textsize">12.5sp</dimen> <!-- 35pt -->
+ 	<dimen name = "worksign_num_fontsize">12.5sp</dimen> <!-- 35pt -->
+ 	
+ 	<!-- pix 转换 dip  按1比2.8调试 -->
+ 	<dimen name="defalut_line_height">0.5dip</dimen>
+ 	<dimen name="defalut_titlebar_line_height">0.5dip</dimen>
+ 	<dimen name= "defalut_list_item_heghit">70dip</dimen> <!-- 197 -->
+ 	<dimen name = "login_account_height" >55dip</dimen> <!-- 153 -->
+ 	<dimen name = "login_password_height" >55dip</dimen> <!-- 153 -->
+ 	<dimen name = "login_margin" >25dip</dimen> <!-- 70 -->
+ 	<dimen name = "login_button_margin_top" >26dip</dimen> <!-- 72 -->
+ 	<dimen name = "login_button_height" >54dip</dimen>  <!-- 150 -->
+ 	<dimen name = "search_title_height" >39dip</dimen>  <!-- 110 -->
+ 	<dimen name = "search_imageview_height" >42dip</dimen>  <!-- 118 -->
+ 	<dimen name = "search_result_item_height" >68dip</dimen>  <!-- 190 -->
+ 	<dimen name = "search_result_item_space_height" >13dip</dimen>  <!-- 36 -->
+ 	<dimen name = "view_navigationbar_heghit" >100dip</dimen>  <!-- 372 -->
+ 	<dimen name = "view_navigationbar_img_heghit" >59dip</dimen>  <!-- 164 -->
+ 	<dimen name ="view_navigationbar_img_text_space">5dip</dimen>
+ 	<dimen name ="view_navigationbar_margin">27dip</dimen><!-- 76 -->
+ 	<dimen name ="organize_dept_node_height">57dip</dimen><!-- 160 -->
+ 	<dimen name ="settingitemview__height">51dip</dimen><!-- 142 -->
+ 	<dimen name ="setting_exit_view_margin_top">50dip</dimen><!-- 140 -->
+ 	<dimen name ="detail_view_height">78.5dip</dimen><!-- 220 -->
+ 	<dimen name ="detail_view_margin_height">18dip</dimen><!-- 50 -->
+ 	<dimen name ="defalut_img_view_height">48.5dip</dimen><!-- 136 -->
+ 	<dimen name ="detail_btn_view_margin">22.8dip</dimen><!-- 64 -->
+ 	<dimen name ="sign_view_margin">27dip</dimen><!-- 74 -->
+ 	<dimen name="schedule_detail_item_height">60dp</dimen>
+ 	<dimen name="organize_head_img_size">15dp</dimen>
+ 	<dimen name="dialog_margin_size">15dp</dimen>
+ 	<dimen name="defalut_line_margin">11dp</dimen>
+ 	<dimen name = "schdeule_edit_height" >100dip</dimen>
+ 	
+ 	<dimen name="chat_head_margin_left_or_right">8dip</dimen>
+ 	<dimen name="chat_head_margin_top">3dip</dimen>
+ 	<dimen name="chat_context_margin_other_derction">62dip</dimen>
+ 	
+ 	<dimen name="icon_triangle_small_size">15dip</dimen>
+ 	<dimen name="carlender_img_size">30dp</dimen>
+ 	<dimen name="carlender_view_margin">20dp</dimen>
+ 	<dimen name="carlender_view_margin_right_10">10dp</dimen>
+ 	
+ 	<dimen name="create_carlender_heghit">85dip</dimen>  <!-- 237 -->
+ 	
+ 	<!-- 日程 :start -->
+ 	<dimen name="date_font_size">12sp</dimen>
+ 	<dimen name="schedules_item_bg_stroke">1px</dimen>
+ 	<!-- 日程 :end -->
+ 	
+ 	<!-- 用户推荐 start -->
+    <dimen name="two_dimensioncode_bitmap_padding">-12dp</dimen>
+    <dimen name="two_dimensioncode_text_size">12.5sp</dimen>
+    <!-- 用户推荐 end -->
+ 	
+</resources>

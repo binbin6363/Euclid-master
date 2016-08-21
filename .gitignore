@@ -1,47 +1,48 @@
-# Windows image file caches
-Thumbs.db
-ehthumbs.db
+# svn
+*.svn*
 
-# Folder config file
-Desktop.ini
+# built application files
+*.apk
+*.ap_
 
-# Recycle Bin used on file shares
-$RECYCLE.BIN/
+# files for the dex VM
+*.dex
 
-# Windows Installer files
-*.cab
-*.msi
-*.msm
-*.msp
+# Java class files
+*.class
 
-# Windows shortcuts
-*.lnk
+# generated GUI files
+*/R.java
 
-# =========================
-# Operating System Files
-# =========================
+# generated folder
+bin
+gen
 
-# OSX
-# =========================
+# local
+local.properties
+proguard.cfg
 
-.DS_Store
-.AppleDouble
-.LSOverride
+# log files
+log*.txt
 
-# Thumbnails
-._*
+# archives
+*.gz
+*.tar
+*.zip
 
-# Files that might appear in the root of a volume
-.DocumentRevisions-V100
-.fseventsd
-.Spotlight-V100
-.TemporaryItems
-.Trashes
-.VolumeIcon.icns
+# eclipse
+*.metadata
+*.settings
 
-# Directories potentially created on remote AFP share
-.AppleDB
-.AppleDesktop
-Network Trash Folder
-Temporary Items
-.apdisk
+# idea
+*.idea
+*.iml
+*.ipr
+*.iws
+out/
+
+# gradle
+build/
+.gradle
+
+# linux

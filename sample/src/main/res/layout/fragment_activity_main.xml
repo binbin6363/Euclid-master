@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <fragment
+        android:id="@+id/fragment_task_list"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="1"
+        class="com.yalantis.euclid.fragment.TaskListFragment" />
+
+    <fragment
+        android:id="@+id/fragment_task_publish"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="1"
+        class="com.yalantis.euclid.fragment.TaskPublishFragment" />
+
+    <fragment
+        android:id="@+id/fragment_task_mgr"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="1"
+        class="com.yalantis.euclid.fragment.TaskMgrFragment"/>
+
+    <fragment
+        android:id="@+id/fragment_about_mine"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="1"
+        class="com.yalantis.euclid.fragment.AboutMineFragment"/>
+
+</LinearLayout>
